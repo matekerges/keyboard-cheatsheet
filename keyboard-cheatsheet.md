@@ -1,23 +1,23 @@
-##Brackets
+Brackets
 
 - Round brackets aka parentheses: shitf+8 and 9 ()
 - Square brackets aka box brackets: alt+8 and 9 []
 - Curly brackets aka curly brackets: alt+7 and ö {}
 - Angle brackets aka chevrons: alt+shift+y and x<>
 
-##Quotation marks
+Quotation marks
 
 - Single quote: shift+1 '
 - Double quote: shift+2 "
 - Backtick: alt+ű `
 
-##Slashes and bar
+Slashes and bar
 
 - Slash: shift+6 /
 - Backslash: alt+ü \
 - Bar: alt+í |
 
-##All the other necessary characters
+All the other necessary characters
 
 - Tilde: alt+ú ~
 - Exclamation mark: shift+4 !
